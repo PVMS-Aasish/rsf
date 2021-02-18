@@ -1,0 +1,87 @@
+body{
+    background-color: lightcyan;
+}
+
+.header{ 
+    background-color: gold; 
+    display: flex; 
+    justify-content: center; 
+    padding:30px;
+    margin: 25px
+}
+
+.animal{
+    background-color:    red;
+    
+    padding:30px;
+    margin: 25px
+}
+
+p,li{
+    color:black;
+    
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+
+.item1{
+    background-color:plum;
+    padding:30px;
+    margin: 25px
+   }
+
+   .item2{
+    background-color: greenyellow;
+    padding:30px;
+    margin: 25px
+   }
+
+   .item3{
+    background-color: burlywood;
+    padding:30px;
+    margin: 25px
+   }
+
+   .item4{
+    background-color: #b9499a;
+    padding:30px;
+    margin: 25px
+   }
+
+   .item5{
+    background-color: lightblue;
+    padding:30px;
+    margin: 25px
+   }
+
+   a:link{
+       color: black;
+   }
+
+   a:visited{
+       color:black;
+   }
+
+   .animal:hover{
+    transform: scale(1.1);
+   }
+
+   .item1:hover{
+    transform: scale(1.1);
+   }
+
+   .item2:hover{
+    transform: scale(1.1);
+   }
+
+   .item3:hover{
+    transform: scale(1.1);
+   }
+
+   .item4:hover{
+    transform: scale(1.1);
+   }
+
+   .item5:hover{
+    transform: scale(1.1);
+   }
